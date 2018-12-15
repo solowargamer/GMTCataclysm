@@ -1,0 +1,1152 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "cataclysm game",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Ideology",
+                    "slots": [],
+                    "samples": [
+                        "what are idealogies",
+                        "how do idealogies work"
+                    ]
+                },
+                {
+                    "name": "DemocraticPowers",
+                    "slots": [],
+                    "samples": [
+                        "what is Democratic power",
+                        "how does Democratic power work"
+                    ]
+                },
+                {
+                    "name": "FascistPowers",
+                    "slots": [],
+                    "samples": [
+                        "what is Fascist power",
+                        "how does Fascist power work"
+                    ]
+                },
+                {
+                    "name": "CommunistPower",
+                    "slots": [],
+                    "samples": [
+                        "what is communist power",
+                        "how does communist power work"
+                    ]
+                },
+                {
+                    "name": "Negotiations",
+                    "slots": [],
+                    "samples": [
+                        "how do I negotiate",
+                        "what are negotiations",
+                        "who can I negotiate with"
+                    ]
+                },
+                {
+                    "name": "EndingGame",
+                    "slots": [],
+                    "samples": [
+                        "when does the game end",
+                        "what ends the game"
+                    ]
+                },
+                {
+                    "name": "WinningTheGame",
+                    "slots": [],
+                    "samples": [
+                        "how do I win",
+                        "who wins the game",
+                        "final scroring"
+                    ]
+                },
+                {
+                    "name": "Maps",
+                    "slots": [],
+                    "samples": [
+                        "tell me about the map",
+                        "what countries are on the map"
+                    ]
+                },
+                {
+                    "name": "LandArea",
+                    "slots": [],
+                    "samples": [
+                        "what is land area",
+                        "how does land area work"
+                    ]
+                },
+                {
+                    "name": "SeaArea",
+                    "slots": [],
+                    "samples": [
+                        "what is sea area",
+                        "how does sea area work"
+                    ]
+                },
+                {
+                    "name": "MixedArea",
+                    "slots": [],
+                    "samples": [
+                        "what is mixed area",
+                        "how does mixed area work"
+                    ]
+                },
+                {
+                    "name": "CoastalAreas",
+                    "slots": [],
+                    "samples": [
+                        "what is coastal area",
+                        "how does coastal area work"
+                    ]
+                },
+                {
+                    "name": "Ports",
+                    "slots": [],
+                    "samples": [
+                        "what are ports",
+                        "which sections are ports"
+                    ]
+                },
+                {
+                    "name": "Airfeld",
+                    "slots": [],
+                    "samples": [
+                        "what is air field",
+                        "how does air field work"
+                    ]
+                },
+                {
+                    "name": "HomeAreasColonies",
+                    "slots": [],
+                    "samples": [
+                        "what is home area",
+                        "what is colonies",
+                        "how does colonies work"
+                    ]
+                },
+                {
+                    "name": "AreaControl",
+                    "slots": [],
+                    "samples": [
+                        "what is area control",
+                        "how does area control work"
+                    ]
+                },
+                {
+                    "name": "CountryControl",
+                    "slots": [],
+                    "samples": [
+                        "control of a country",
+                        "country control",
+                        "uncontrolled country",
+                        "country garrison"
+                    ]
+                },
+                {
+                    "name": "China",
+                    "slots": [],
+                    "samples": [
+                        "china country",
+                        "tell me about china",
+                        "china power"
+                    ]
+                },
+                {
+                    "name": "OffMapAreas",
+                    "slots": [],
+                    "samples": [
+                        "off map area",
+                        "what is off map area",
+                        "how does off map area work"
+                    ]
+                },
+                {
+                    "name": "RemoteAreas",
+                    "slots": [],
+                    "samples": [
+                        "remote areas",
+                        "what is remote area",
+                        "how does remote area work"
+                    ]
+                },
+                {
+                    "name": "AdverseTerrain",
+                    "slots": [],
+                    "samples": [
+                        "rough map area",
+                        "adverse terrain",
+                        "dotted map area"
+                    ]
+                },
+                {
+                    "name": "Bases",
+                    "slots": [],
+                    "samples": [
+                        "shaded square on map",
+                        "what are shaded squares",
+                        "blue squares",
+                        "square with symbol",
+                        "square with flag"
+                    ]
+                },
+                {
+                    "name": "BlackArrows",
+                    "slots": [],
+                    "samples": [
+                        "what is black arrow",
+                        "how does black arrow work"
+                    ]
+                },
+                {
+                    "name": "BlueArrow",
+                    "slots": [],
+                    "samples": [
+                        "blue arrow",
+                        "blue arrow with plane",
+                        "air plane arrow"
+                    ]
+                },
+                {
+                    "name": "DelayBoxes",
+                    "slots": [],
+                    "samples": [
+                        "red area with delay",
+                        "red square with delay",
+                        "delay box"
+                    ]
+                },
+                {
+                    "name": "MapConnectors",
+                    "slots": [],
+                    "samples": [
+                        "map connector",
+                        "blue and black circle",
+                        "blue circle with letter",
+                        "blue and black arrow"
+                    ]
+                },
+                {
+                    "name": "ResistanceRedFist",
+                    "slots": [],
+                    "samples": [
+                        "resistance on map",
+                        "red fist square",
+                        "square with fist"
+                    ]
+                },
+                {
+                    "name": "NaturalResource",
+                    "slots": [],
+                    "samples": [
+                        "natural resource",
+                        "square with shovel",
+                        "square with hammer",
+                        "white square with tools"
+                    ]
+                },
+                {
+                    "name": "IndustrialResources",
+                    "slots": [],
+                    "samples": [
+                        "building in a square",
+                        "square with factory",
+                        "factory symbol"
+                    ]
+                },
+                {
+                    "name": "LimitedResource",
+                    "slots": [],
+                    "samples": [
+                        "limited resource",
+                        "factory with name",
+                        "factory and name"
+                    ]
+                },
+                {
+                    "name": "SpecialResources",
+                    "slots": [],
+                    "samples": [
+                        "special resources",
+                        "red square with building",
+                        "building red square",
+                        "building symbol red"
+                    ]
+                },
+                {
+                    "name": "ProductionSites",
+                    "slots": [],
+                    "samples": [
+                        "Production Sites"
+                    ]
+                },
+                {
+                    "name": "RestrictedTerrain",
+                    "slots": [],
+                    "samples": [
+                        "Restricted Terrain",
+                        "red circle with r",
+                        "red and white circle"
+                    ]
+                },
+                {
+                    "name": "Cubes",
+                    "slots": [],
+                    "samples": [
+                        "wood cubes",
+                        "wood square",
+                        "what are the cubes"
+                    ]
+                },
+                {
+                    "name": "PowerMarkers",
+                    "slots": [],
+                    "samples": [
+                        "what is power marker",
+                        "power marker",
+                        "how does power marker work",
+                        "power flag"
+                    ]
+                },
+                {
+                    "name": "MinorArmies",
+                    "slots": [],
+                    "samples": [
+                        "what is Minor Army",
+                        "Minor Army",
+                        "how does Minor Army work",
+                        "unit with country name"
+                    ]
+                },
+                {
+                    "name": "NeutralCubes",
+                    "slots": [],
+                    "samples": [
+                        "Neutral Cube",
+                        "what is Neutral Cube",
+                        "how does Neutral Cube work",
+                        "what is white cube",
+                        "how does white cube work"
+                    ]
+                },
+                {
+                    "name": "ReserveTrack",
+                    "slots": [],
+                    "samples": [
+                        "Reserve Track",
+                        "Effectiveness Track"
+                    ]
+                },
+                {
+                    "name": "FailedPoliticalAction",
+                    "slots": [],
+                    "samples": [
+                        "Failed Political Action",
+                        "how does Failed Political Action work",
+                        "Failed Political Action track"
+                    ]
+                },
+                {
+                    "name": "PoliticalDisplay",
+                    "slots": [],
+                    "samples": [
+                        "Political Display",
+                        "what is the Political Display",
+                        "how does Political Display work"
+                    ]
+                },
+                {
+                    "name": "StabilityTrack",
+                    "slots": [],
+                    "samples": [
+                        "Stability Track",
+                        "what is Stability Track",
+                        "how does Stability Track work"
+                    ]
+                },
+                {
+                    "name": "TurnTrack",
+                    "slots": [],
+                    "samples": [
+                        "what is Turn Track",
+                        "how does Turn Track work",
+                        "Turn Track"
+                    ]
+                },
+                {
+                    "name": "VictoryPointTrack",
+                    "slots": [],
+                    "samples": [
+                        "Victory Point Track"
+                    ]
+                },
+                {
+                    "name": "PowerStatusCard",
+                    "slots": [],
+                    "samples": [
+                        "Power Status Card",
+                        "what is Power Status Card",
+                        "how does Power Status Card work"
+                    ]
+                },
+                {
+                    "name": "ActionCup",
+                    "slots": [],
+                    "samples": [
+                        "what is action cup",
+                        "how does action cup work",
+                        "action cup"
+                    ]
+                },
+                {
+                    "name": "OrderOfPlay",
+                    "slots": [],
+                    "samples": [
+                        "what is Order of Play",
+                        "how does Order of Play work",
+                        "Order of Play"
+                    ]
+                },
+                {
+                    "name": "AdministrationPhase",
+                    "slots": [],
+                    "samples": [
+                        "what is Administration Phase",
+                        "how does Administration Phase work",
+                        "Administration Phase"
+                    ]
+                },
+                {
+                    "name": "GainFlags",
+                    "slots": [],
+                    "samples": [
+                        "Gain Flags",
+                        "when do I get Flags",
+                        "how do I get Flags",
+                        "how do I get more Flags"
+                    ]
+                },
+                {
+                    "name": "Production",
+                    "slots": [],
+                    "samples": [
+                        "what is Production",
+                        "how does Production work",
+                        "when does Production happen",
+                        "Production phase"
+                    ]
+                },
+                {
+                    "name": "ActionPhase",
+                    "slots": [],
+                    "samples": [
+                        "what is Action Phase",
+                        "how does Action Phase work",
+                        "when is the Action Phase",
+                        "when can i take actions"
+                    ]
+                },
+                {
+                    "name": "Reserve",
+                    "slots": [],
+                    "samples": [
+                        "what is reserve",
+                        "how does reserve work",
+                        "what can I hold in reserve",
+                        "can i reserve flags",
+                        "can i reserve units",
+                        "can i reserve resources"
+                    ]
+                },
+                {
+                    "name": "Interrupts",
+                    "slots": [],
+                    "samples": [
+                        "what is Interrupts",
+                        "how does Interrupts work",
+                        "when can I Interrupt",
+                        "who can interrupt"
+                    ]
+                },
+                {
+                    "name": "ResolvingFlag",
+                    "slots": [],
+                    "samples": [
+                        "what is Resolving a Flag",
+                        "how does Resolving a Flag work",
+                        "when can i Resolve a Flag"
+                    ]
+                },
+                {
+                    "name": "ResolvingUnit",
+                    "slots": [],
+                    "samples": [
+                        "what is Resolving a Unit",
+                        "how does Resolving a Unit work",
+                        "when can i Resolve a Unit"
+                    ]
+                },
+                {
+                    "name": "ResolvingUpgrade",
+                    "slots": [],
+                    "samples": [
+                        "what is Resolving an Upgrade",
+                        "how does Resolving an Upgrade work",
+                        "how do I upgrade"
+                    ]
+                },
+                {
+                    "name": "SuddenDeath",
+                    "slots": [],
+                    "samples": [
+                        "what is Sudden Death",
+                        "how does Sudden Death work",
+                        "sudden death marker",
+                        "sudden death"
+                    ]
+                },
+                {
+                    "name": "HomeFront",
+                    "slots": [],
+                    "samples": [
+                        "what is Home Front",
+                        "how does Home Front work",
+                        "home front marker"
+                    ]
+                },
+                {
+                    "name": "Commitment",
+                    "slots": [],
+                    "samples": [
+                        "what is Commitment",
+                        "how does Commitment work",
+                        "Commitment marker",
+                        "blue commit marker",
+                        "blue bicep marker"
+                    ]
+                },
+                {
+                    "name": "Exhaustion",
+                    "slots": [],
+                    "samples": [
+                        "what is Exhaustion",
+                        "how does Exhaustion work"
+                    ]
+                },
+                {
+                    "name": "ForcePool",
+                    "slots": [],
+                    "samples": [
+                        "what is Force Pool",
+                        "how does Force Pool work",
+                        "what are force pools"
+                    ]
+                },
+                {
+                    "name": "ProductionSequence",
+                    "slots": [],
+                    "samples": [
+                        "what is Production Sequence",
+                        "how does Production Sequence work",
+                        "when is the production sequence",
+                        "Production Sequence"
+                    ]
+                },
+                {
+                    "name": "LineOfCommunications",
+                    "slots": [],
+                    "samples": [
+                        "what is Line of Communications",
+                        "how does Line of Communications work"
+                    ]
+                },
+                {
+                    "name": "TransferResources",
+                    "slots": [],
+                    "samples": [
+                        "what is Transfer of Resources",
+                        "how does Transfer of Resources work",
+                        "how can I Transfer Resources",
+                        "who can Transfer Resources"
+                    ]
+                },
+                {
+                    "name": "CollectingResources",
+                    "slots": [],
+                    "samples": [
+                        "what is Collecting Resources",
+                        "how does Collecting Resources work",
+                        "who can Collect Resources"
+                    ]
+                },
+                {
+                    "name": "ConvertResources",
+                    "slots": [],
+                    "samples": [
+                        "what is convert resources",
+                        "how does convert resources work",
+                        "when can I convert resources",
+                        "ratio for converting a resource"
+                    ]
+                },
+                {
+                    "name": "Construction",
+                    "slots": [],
+                    "samples": [
+                        "what is Construction",
+                        "how does Construction work"
+                    ]
+                },
+                {
+                    "name": "WarOffensives",
+                    "slots": [],
+                    "samples": [
+                        "what is War Offensives",
+                        "how do War Offensives work"
+                    ]
+                },
+                {
+                    "name": "GainingFlags",
+                    "slots": [],
+                    "samples": [
+                        "how do I use flags",
+                        "what happens after I gain a flag"
+                    ]
+                },
+                {
+                    "name": "Provocation",
+                    "slots": [],
+                    "samples": [
+                        "what is Provocation",
+                        "how does Provocation work",
+                        "what happens when I provoke a country",
+                        "Provocation"
+                    ]
+                },
+                {
+                    "name": "Effectiveness",
+                    "slots": [],
+                    "samples": [
+                        "what is a Effectiveness check",
+                        "how does Effectiveness checks work",
+                        "gray marker with effect"
+                    ]
+                },
+                {
+                    "name": "FailedPoliticalActions",
+                    "slots": [],
+                    "samples": [
+                        "what are Failed Political Actions",
+                        "how do Failed Political Actions work"
+                    ]
+                },
+                {
+                    "name": "Stability",
+                    "slots": [],
+                    "samples": [
+                        "what is Stability",
+                        "how does Stability work"
+                    ]
+                },
+                {
+                    "name": "StabilityTests",
+                    "slots": [],
+                    "samples": [
+                        "what is Stability Test",
+                        "how does a Stability Test work"
+                    ]
+                },
+                {
+                    "name": "Collapse",
+                    "slots": [],
+                    "samples": [
+                        "what is a Collapse",
+                        "how does a Collapse work",
+                        "when does a country collapse",
+                        "what causes a collapse"
+                    ]
+                },
+                {
+                    "name": "CollapseProcedure",
+                    "slots": [],
+                    "samples": [
+                        "what is Collapse Procedure",
+                        "how does Collapse Procedure work",
+                        "how do I perform a Collapse Procedure",
+                        "what causes a Collapse Procedure"
+                    ]
+                },
+                {
+                    "name": "Surrender",
+                    "slots": [],
+                    "samples": [
+                        "what is Surrender",
+                        "how does Surrender work",
+                        "when do I surrender",
+                        "when does my opponent",
+                        "what happens during a Surrender"
+                    ]
+                },
+                {
+                    "name": "StartingWars",
+                    "slots": [],
+                    "samples": [
+                        "what is starting war",
+                        "how does starting war work",
+                        "how do I start a war",
+                        "what happens when war starts"
+                    ]
+                },
+                {
+                    "name": "EndingWars",
+                    "slots": [],
+                    "samples": [
+                        "when does a war end",
+                        "how does Ending Wars work",
+                        "how do I end a war"
+                    ]
+                },
+                {
+                    "name": "WarStatus",
+                    "slots": [],
+                    "samples": [
+                        "what is War Status",
+                        "how does War Status work",
+                        "how do I get the status of a war"
+                    ]
+                },
+                {
+                    "name": "LimitedWar",
+                    "slots": [],
+                    "samples": [
+                        "what is limited war",
+                        "how does limited war work"
+                    ]
+                },
+                {
+                    "name": "GlobalWar",
+                    "slots": [],
+                    "samples": [
+                        "what is Global War",
+                        "how does Global War work"
+                    ]
+                },
+                {
+                    "name": "DiplomaticOpportunity",
+                    "slots": [],
+                    "samples": [
+                        "what is Diplomatic Opportunity",
+                        "how does Diplomatic Opportunity work"
+                    ]
+                },
+                {
+                    "name": "JoiningAlliance",
+                    "slots": [],
+                    "samples": [
+                        "how do I Join an Alliance",
+                        "how does Joining an Alliance work"
+                    ]
+                },
+                {
+                    "name": "PoliticalAction",
+                    "slots": [],
+                    "samples": [
+                        "what is a Political Action",
+                        "how does a Political Action work"
+                    ]
+                },
+                {
+                    "name": "BreakingAlliance",
+                    "slots": [],
+                    "samples": [
+                        "what is Breaking an Alliance",
+                        "how does Breaking an Alliance work",
+                        "how do I Break an Alliance"
+                    ]
+                },
+                {
+                    "name": "DeclarationOfWar",
+                    "slots": [],
+                    "samples": [
+                        "what is Declaration of War",
+                        "how does Declaration of War work",
+                        "how do I declare war"
+                    ]
+                },
+                {
+                    "name": "Diplomacy",
+                    "slots": [],
+                    "samples": [
+                        "what is Diplomacy",
+                        "how does Diplomacy work"
+                    ]
+                },
+                {
+                    "name": "IncreaseCommitment",
+                    "slots": [],
+                    "samples": [
+                        "what is Increase Commitment",
+                        "how do I Increase Commitment"
+                    ]
+                },
+                {
+                    "name": "Maneuvers",
+                    "slots": [],
+                    "samples": [
+                        "what is Maneuvers",
+                        "how do Maneuvers work",
+                        "operation with green arrow",
+                        "operation green arrow"
+                    ]
+                },
+                {
+                    "name": "Propaganda",
+                    "slots": [],
+                    "samples": [
+                        "what is Propaganda",
+                        "how does Propaganda work",
+                        "yellow scale marker"
+                    ]
+                },
+                {
+                    "name": "OccupationLimits",
+                    "slots": [],
+                    "samples": [
+                        "what are Occupation Limits",
+                        "how do Occupation Limits work"
+                    ]
+                },
+                {
+                    "name": "LogisticsUnits",
+                    "slots": [],
+                    "samples": [
+                        "what are Logistics Units",
+                        "how do Logistics Units work"
+                    ]
+                },
+                {
+                    "name": "Movement",
+                    "slots": [],
+                    "samples": [
+                        "what is Movement",
+                        "how does Movement work",
+                        "what are rules for movement"
+                    ]
+                },
+                {
+                    "name": "LandMovement",
+                    "slots": [],
+                    "samples": [
+                        "what is Land Movement",
+                        "how does Land Movement work"
+                    ]
+                },
+                {
+                    "name": "NavalMovement",
+                    "slots": [],
+                    "samples": [
+                        "what is Naval Movement",
+                        "how does Naval Movement work"
+                    ]
+                },
+                {
+                    "name": "AirMovement",
+                    "slots": [],
+                    "samples": [
+                        "what is Air Movement",
+                        "how does Air Movement work"
+                    ]
+                },
+                {
+                    "name": "NavalRange",
+                    "slots": [],
+                    "samples": [
+                        "what is Naval Range",
+                        "how does Naval Range work",
+                        "how many spaces can my naval units move"
+                    ]
+                },
+                {
+                    "name": "AirRange",
+                    "slots": [],
+                    "samples": [
+                        "what is Air Range",
+                        "how does Air Range work"
+                    ]
+                },
+                {
+                    "name": "ExtendedRange",
+                    "slots": [],
+                    "samples": [
+                        "what is Extended Range",
+                        "how does Extended Range work"
+                    ]
+                },
+                {
+                    "name": "MilitaryActions",
+                    "slots": [],
+                    "samples": [
+                        "what are Military Actions",
+                        "how do Military Actions work"
+                    ]
+                },
+                {
+                    "name": "Builds",
+                    "slots": [],
+                    "samples": [
+                        "what are Builds",
+                        "how do Builds work"
+                    ]
+                },
+                {
+                    "name": "Deployment",
+                    "slots": [],
+                    "samples": [
+                        "what is Deployment",
+                        "how does Deployment work",
+                        "how do I deploy my units"
+                    ]
+                },
+                {
+                    "name": "SubsequentActivation",
+                    "slots": [],
+                    "samples": [
+                        "what is Subsequent Activation",
+                        "how does Subsequent Activation work"
+                    ]
+                },
+                {
+                    "name": "OperationTypes",
+                    "slots": [],
+                    "samples": [
+                        "what are Operation Types",
+                        "how do Operation Types work",
+                        "what are the types of operations"
+                    ]
+                },
+                {
+                    "name": "OperationSequence",
+                    "slots": [],
+                    "samples": [
+                        "what is Operation Sequence",
+                        "how does Operation Sequence work"
+                    ]
+                },
+                {
+                    "name": "LandOperationProcedure",
+                    "slots": [],
+                    "samples": [
+                        "what is Land Operation Procedure",
+                        "how does Land Operation Procedure work"
+                    ]
+                },
+                {
+                    "name": "NavalOperationProcedure",
+                    "slots": [],
+                    "samples": [
+                        "what is Naval Operation Procedure",
+                        "how does Naval Operation Procedure work"
+                    ]
+                },
+                {
+                    "name": "AirOperationProcedure",
+                    "slots": [],
+                    "samples": [
+                        "what is Air Operation Procedure",
+                        "how does Air Operation Procedure work"
+                    ]
+                },
+                {
+                    "name": "StrategicBombing",
+                    "slots": [],
+                    "samples": [
+                        "what is Strategic Bombing",
+                        "how does  Strategic Bombing work"
+                    ]
+                },
+                {
+                    "name": "Supply",
+                    "slots": [],
+                    "samples": [
+                        "what is Supply",
+                        "how does Supply work"
+                    ]
+                },
+                {
+                    "name": "AttackingACountry",
+                    "slots": [],
+                    "samples": [
+                        "how do I Attack a Country",
+                        "how do country attacks work"
+                    ]
+                },
+                {
+                    "name": "CivilWars",
+                    "slots": [],
+                    "samples": [
+                        "what is Civil War",
+                        "how does Civil War work"
+                    ]
+                },
+                {
+                    "name": "FailedAttacks",
+                    "slots": [],
+                    "samples": [
+                        "what is Failed Attack",
+                        "how do Failed Attacks work"
+                    ]
+                },
+                {
+                    "name": "SurpriseAttack",
+                    "slots": [],
+                    "samples": [
+                        "what is Surprise Attack",
+                        "how does Surprise Attack work"
+                    ]
+                },
+                {
+                    "name": "CombatSequence",
+                    "slots": [],
+                    "samples": [
+                        "what is Combat Sequence",
+                        "how does Combat Sequence work"
+                    ]
+                },
+                {
+                    "name": "AirSuperiority",
+                    "slots": [],
+                    "samples": [
+                        "what is Air Superiority",
+                        "how does Air Superiority work"
+                    ]
+                },
+                {
+                    "name": "LandCombat",
+                    "slots": [],
+                    "samples": [
+                        "what is Land Combat",
+                        "how does Land Combat work"
+                    ]
+                },
+                {
+                    "name": "NavalCombat",
+                    "slots": [],
+                    "samples": [
+                        "what is Naval Combat",
+                        "how does Naval Combat work"
+                    ]
+                },
+                {
+                    "name": "AirCombat",
+                    "slots": [],
+                    "samples": [
+                        "what is Air Combat",
+                        "how does Air Combat work"
+                    ]
+                },
+                {
+                    "name": "CombatResult",
+                    "slots": [],
+                    "samples": [
+                        "how do I resolve combat",
+                        "what is combat result",
+                        "how do I determine combat results"
+                    ]
+                },
+                {
+                    "name": "Losses",
+                    "slots": [],
+                    "samples": [
+                        "what are Losses",
+                        "how do Losses work",
+                        "how do I determine losses"
+                    ]
+                },
+                {
+                    "name": "Retreat",
+                    "slots": [],
+                    "samples": [
+                        "what is Retreat",
+                        "how does Retreat work"
+                    ]
+                },
+                {
+                    "name": "Regroup",
+                    "slots": [],
+                    "samples": [
+                        "what is Regroup",
+                        "how does Regroup work",
+                        "how do I regroup"
+                    ]
+                },
+                {
+                    "name": "CivilWarCrisis",
+                    "slots": [],
+                    "samples": [
+                        "what is Civil War Crisis",
+                        "how does Civil War Crisis work"
+                    ]
+                },
+                {
+                    "name": "CivilWarResolution",
+                    "slots": [],
+                    "samples": [
+                        "what is Civil War Resolution",
+                        "how does Civil War Resolution work",
+                        "how do I resolve a civil war"
+                    ]
+                },
+                {
+                    "name": "ChineseCivilWar",
+                    "slots": [],
+                    "samples": [
+                        "what is Chinese Civil War",
+                        "how does Chinese Civil War work"
+                    ]
+                },
+                {
+                    "name": "DiceRoll",
+                    "slots": [
+                        {
+                            "name": "dice",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "roll {dice} dice"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

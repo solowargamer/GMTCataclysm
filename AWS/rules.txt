@@ -1,0 +1,725 @@
+
+!Ideology
+what are idealogies
+how do idealogies work
+=Each power belongs to one of three ideologies: Democracy, Fascism, or Communism. A power’s ideology never changes during the game
+
+!DemocraticPowers
+what is Democratic power
+how does Democratic power work
+=The Democratic powers are France (blue), the United Kingdom (khaki), and the United States (green).     
+
+!FascistPowers
+what is Fascist power
+how does Fascist power work
+=The Fascist powers are Germany (gray), Italy (yellow), and Japan (purple).    
+
+!CommunistPower
+what is communist power
+how does communist power work
+=The sole Communist power is the Soviet Union (red)
+
+!Negotiations
+how do I negotiate
+what are negotiations
+who can I negotiate with
+=Players may freely negotiate at the table at any time, so long as the ﬂow of play is not unduly interfered with. However, any deals made are non-binding, and cannot change the game state directly (i.e., no trading or lending of resources, units, control of areas, etc.)   
+
+!EndingGame
+when does the game end
+what ends the game
+=The game ends immediately when one or more of the following conditions apply: All powers in one ideology have surrendered (5.5.4), One ideology has caused the surrender of two powers (i.e., has two Surrender markers on the political display), or War status is Global War and no powers are belligerent (5.6.3). 
+
+!WinningTheGame
+how do I win
+who wins the game
+final scroring
+=At the end of the game, total the victory points of all powers in each ideology; the ideology with the highest total wins. This can be tracked during the game with the ideology victory point markers. If one or more ideologies are tied for the highest total, the Communists win if they are one of the tied ideologies; otherwise, the Fascists win.
+
+!Maps
+tell me about the map
+what countries are on the map
+=Cataclysm splits the playing area into two maps. The European map runs from South Africa to the Barents Sea, and the Pacifc map runs from Dutch Harbor to the South Indian Ocean. Some scenarios only use one map, in which case all areas on the other map are out of play.  
+
+!LandArea
+what is land area
+how does land area work
+=land and air units may enter and occupy land areas (7.1.1). Naval units may enter and occupy coastal land areas (2.2.1) (example: Benelux    
+
+!SeaArea
+what is sea area
+how does sea area work
+=all units may enter sea areas, but occupation is usually prohibited (example: Western Approaches).  See section 7.1.2 for full exceptions list.
+
+!MixedArea
+what is mixed area
+how does mixed area work
+=mixed areas combine both land and sea in one area. All units may enter and occupy (7.1.1). Denmark, Hokkaido, Java, New Guinea, Philippines, and Turkey are the only mixed areas.    
+
+!CoastalAreas
+what is coastal area
+how does coastal area work
+=All mixed areas, and all land areas adjacent to at least one sea area, are coastal areas. A unit in Egypt, Ruhr, or South Africa may move (7.2) or support (10.2) into any adjacent sea area if otherwise eligible. No unit may use naval movement through (i.e., into and out of) one of these areas unless it is friendly (1.1) 
+
+!Ports
+what are ports
+which sections are ports
+=An area is a port if it is a coastal area (2.2.1), or if it is a sea area containing a naval base (2.3.2). Ports and airfelds determine what areas can be occupied by naval and air units (7.1), respectively. 
+
+!Airfeld
+what is air field
+how does air field work
+=An area is an airfeld if it is a land or mixed area, or if it is a sea area containing an air base (2.3.2). Ports and airfelds determine what areas can be occupied by naval and air units (7.1), respectively.
+
+!HomeAreasColonies
+what is home area
+what is colonies
+how does colonies work
+=At the start of 1933, a power controls all land and mixed areas in that power’s color. If an area in a power’s color has its name in a block matching the power’s color, it is a home area; otherwise it is a colony. A power’s capital is the home area with its name in ALL CAPS. 
+
+!AreaControl
+what is area control
+how does area control work
+=A power controls its home and colony areas containing no opposing or neutral cubes. A power also controls any other areas containing at least one of its own cubes. A power that has surrendered never controls any areas. Land areas are either controlled by a single power or uncontrolled. Sea areas are never controlled by any power. Ownership of a base in an area does not provide control of the area
+
+!CountryControl
+control of a country
+country control
+uncontrolled country
+country garrison
+=Land or mixed areas that are not a home or colony area are countries. A country is controlled if a power has a cubein it; otherwise it is uncontrolled. A country is garrisoned if it contains a power’s land unit; otherwise it is ungarrisoned. The presence of a minor army or a non-land unit does not count. All uncontrolled countries are also ungarrisoned, by defnition
+
+!China
+china country
+tell me about china
+china power
+=China is not a power. Instead it consists of several independent countries. Note that Manchuria is a separate country and is not part of China. Special rules apply to China concerning the Chinese Civil War .
+
+!OffMapAreas
+off map area
+what is off map area
+how does off map area work
+=The following areas are off-map areas.  , Barents Sea  , South Africa  , and Arabian Sea.  An off-map area represents territory that would not ft on the map without severe distortion, but is otherwise treated normally in game terms. White arrows show to what areas an off-map box is adjacent. Off-map areas adjacent to at least one sea or mixed are coastal areas.
+
+!RemoteAreas
+remote areas
+what is remote area
+how does remote area work
+=The following areas are remote areas. California, Canada, South Africa, Urals, and Washington DC. A remote area can only be entered by units belonging to the area’s controller. An unlimited number of such units may occupy the area
+
+!AdverseTerrain
+rough map area
+adverse terrain
+dotted map area
+=Adverse terrain, represented on the maps by a rough texture effect, reﬂects diffcult or mountainous terrain that negates armor superiority and gives the defender a +1 to their combat score (10.4)   
+
+!Bases
+shaded square on map
+what are shaded squares
+blue squares
+square with symbol
+square with flag
+=Some sea areas have base symbols printed in them, representing facilities on landmasses too small to count as an area. Bases start the game either owned by a specifc power or unowned . Ownership of a base may change due to a base capture operation, but bases are never created or destroyed
+
+!BlackArrows
+what is black arrow
+how does black arrow work
+=A black crossing arrow connects two areas divided by a strait or other narrow body of water. The areas are adjacent for all purposes. Attacking across a strait gives the defender +1 to their combat score (10.4). A black crossing arrow also permits naval movement between a mixed area and an adjacent coastal area (7.2.2)  
+
+!BlueArrow
+blue arrow
+blue arrow with plane
+air plane arrow
+=A blue crossing arrow with airplane icons indicates two non-adjacent land or mixed areas that are still close enough for air operations. The areas are adjacent for movement (7.2.3) and support (10.2) of air units only     
+
+!DelayBoxes
+red area with delay
+red square with delay
+delay box
+=The following areas contain a Delay box. California, South Africa, and Urals. Moving units must stop upon entering an area with a Delay box and may move no further during that action. Temporarily place such units in the Delay box as a reminder; at the end of the action, move them to the area proper
+
+!MapConnectors
+map connector
+blue and black circle
+blue circle with letter
+blue and black arrow
+=A map connector connects two areas on different maps. Areas that share a map connector are adjacent for all purposes. A map connector is traversable by land and air movement if it is a white circle, by naval movement if it is a light blue circle, or both if half white and half blue   
+
+!ResistanceRedFist
+resistance on map
+red fist square
+square with fist
+=Each country has a resistance value ranging from zero to two, represented by the number of red fst icons in the country. If a country has no resistance icons, its resistance is zero. Areas containing a neutral cube (2.4.5) always have a resistance of one  
+
+!NaturalResource
+natural resource
+square with shovel
+square with hammer
+white square with tools
+=Natural resources are the default, having noadditional special rules. Powers collect resources during production (4.4.2) and convert them into builds or offensives
+
+!IndustrialResources
+building in a square
+square with factory
+factory symbol
+=Industrial resources provide commitment offensives (6.4.2) and war offensives (4.7). They also act as production sites (2.3.9). Powers collect resources during production (4.4.2) and convert them into builds or offensives
+
+!LimitedResource
+limited resource
+factory with name
+factory and name
+=Limited resources are represented by markers with an area name. They are collected once and then removed from play (4.4). A limited resource may be natural or industrial. Powers collect resources during production (4.4.2) and convert them into builds or offensives   
+
+!SpecialResources
+special resources
+red square with building
+building red square
+building symbol red
+=Special resources are markers the Soviet Union puts into play that function as industrial resources (12.3.1). . Powers collect resources during production (4.4.2) and convert them into builds or offensives   
+
+!ProductionSites
+Production Sites
+=A production site is a home area controlled by its original power that contains an industrial resource, even if damaged by strategic bombing (9.5.2). Areas containing special Soviet resources are also production sites (12.3)  
+
+!RestrictedTerrain
+Restricted Terrain
+red circle with r
+red and white circle
+=A restricted terrain symbol blocks lines of communications (4.3) through an area, and reduces occupation limits (7.1) in the area. Movement (7.2.1) is not affected by restricted terrain. The effects of restrict   
+
+!Cubes
+wood cubes
+wood square
+what are the cubes
+=Each power has a set of counters and wooden cubes in its color. The number of each power’s counters and cubes are a hard limit; you cannot make more or substitute other pieces if you run out. Counters not in a specifc power’s color are neutral and do not belong to any individual power.  
+
+!PowerMarkers
+what is power marker
+power marker
+how does power marker work
+power flag
+=A power’s ﬂags , offensives , resources , and bases  are kept in its available markers box on its status card when not in use. They do not count against the power’s force pool limit . Note that a power’s resource markers are on the back of its offensive markers  
+
+!MinorArmies
+what is Minor Army
+Minor Army
+how does Minor Army work
+unit with country name
+=Some countries have a minor army for defense. A minor army cannot move, attack, or retreat, but does count towards the occupation limit of its area . Chinese armies are also minor armies for all purposes, but have increased capabilities. A minor army cannot be voluntarily removed by its controlling power
+
+!NeutralCubes
+Neutral Cube
+what is Neutral Cube
+how does Neutral Cube work
+what is white cube
+how does white cube work
+=Neutral cubes are white. And are used to mark home or colony areas that are uncontrolled due to surrender  or civil war. An area with a neutral cube is treated as an uncontrolled country with a resistance of one   
+
+!ReserveTrack
+Reserve Track
+Effectiveness Track
+=Effectiveness Track and Reserve Track: This combined track records the political effectiveness (5.3) of each power, and contains the counters held in reserve by the powers (3.4)   
+
+!FailedPoliticalAction
+Failed Political Action
+how does Failed Political Action work
+Failed Political Action track
+=Failed Political Action Boxes: These boxes record when a power has failed a political action (5.4) and is eligible for a bonus on its next political action of the same type.   
+
+!PoliticalDisplay
+Political Display
+what is the Political Display
+how does Political Display work
+=This triangular display records the existence of wars (5.6.3) and alliances (6.1) between powers.  
+
+!StabilityTrack
+Stability Track
+what is Stability Track
+how does Stability Track work
+=This track records how close a power is to collapse (5.5.2). When a power’s stability increases, move the marker towards Steady. When a power’s stability decreases, move the marker towards Collapse.
+
+!TurnTrack
+what is Turn Track
+how does Turn Track work
+Turn Track
+=This track records the current game turn and also acts as a holding box for counters until the following turn (3.2.1).
+
+!VictoryPointTrack
+Victory Point Track
+=This track records the victory points of each individual power, as well as the total victory points for each ideology (1.7.1).
+
+!PowerStatusCard
+Power Status Card
+what is Power Status Card
+how does Power Status Card work
+=Each power has a status card that houses the power’s available markers  and force pool . A power’s status card also tracks its current commitment , which determines the power’s conversion rate , force pool limit, effectiveness , and home front penalty. The card also indicates which opposing powers provoke the power (and are themselves provoked) by alliance formation or commitment increase
+
+!ActionCup
+what is action cup
+how does action cup work
+action cup
+=The action cup contains all the counters due to enter play for a given turn. During the action phase, the counters in the cup are mixed and then drawn at random, one at a time. You will need to provide an opaque wide-mouthed container to serve as the action cup.  
+
+!OrderOfPlay
+what is Order of Play
+how does Order of Play work
+Order of Play
+=Whenever the rules instruct powers to perform a game activity in order, that order is determined by comparing their effectiveness, either in decreasing effectiveness order  or in increasing effectiveness order. When resolving ties in decreasing effectiveness order, Fascists go before Communists, which go before Democracies. In increasing effectiveness order, Democracies go before Communists, which go before Fascists.  
+
+!Administration Phase
+what is Administration Phase
+how does Administration Phase work
+Administration Phase
+=The steps in the administration phase are carried out in the following sequence.   Distribute turn track counters (3.2.1) , Gain ﬂags (3.2.2) , Production (4.2) , and Final disposition of production counters (3.2.4) 
+
+!GainFlags
+Gain Flags
+when do I get Flags
+how do I get Flags
+how do I get more Flags
+=Each power gains one ﬂag from their available markers. Gained ﬂags are placed in the power’s production holding box
+
+!Production
+what is Production
+how does Production work
+when does Production happen
+Production phase
+=Each power in increasing effectiveness order collects resources and converts them to builds or offensives . Builds are spent immediately to construct new units (8.3), and offensives are used in the action phase to move and attack with units in play.   
+
+!Action Phase
+what is Action Phase
+how does Action Phase work
+when is the Action Phase
+when can i take actions
+=In the action phase, counters are played one at a time, either from reserve, or randomly drawn from the action cup. The player with the lowest score (1.7.1) is in charge of drawing counters for the entire turn.   
+
+!Reserve
+what is reserve
+how does reserve work
+what can I hold in reserve
+can i reserve flags
+can i reserve units
+can i reserve resources
+=Each power may hold one ﬂag, unit, offensive, resource, or upgrade marker on the reserve track as its reserve. The reserved counter is kept in the same row on the track as the power’s effectiveness marker. A given power may never have more than one counter in reserve at a time (regardless of type). 
+
+!Interrupts
+what is Interrupts
+how does Interrupts work
+when can I Interrupt
+who can interrupt
+=Immediately before any counter is drawn from the cup, any power may interrupt by playing their counter in reserve. If more than one power wants to interrupt, priority goes in decreasing effectiveness order.  Different powers may interrupt in succession; however, an ideology can never act twice in a row via interrupt. A power cannot interrupt if a counter from any power in its ideology was the last to be drawn from the cup or played from reserve this turn.
+
+!ResolvingFlag
+what is Resolving a Flag
+how does Resolving a Flag work
+when can i Resolve a Flag
+=When a ﬂag is played, its power performs one political action (6.0). When an offensive is played, its power performs one or more military actions (8.0)   
+
+!ResolvingUnit
+what is Resolving a Unit
+how does Resolving a Unit work
+when can i Resolve a Unit
+=When a unit is played, its power must place it at a production site on its regular, non-upgraded side. Naval units must be placed in a coastal home area to which a production site can trace a line of communication. If the unit has no legal area for placement, the power must choose to place it in reserve or on the turn track for next turn.   
+
+!ResolvingUpgrade
+what is Resolving an Upgrade
+how does Resolving an Upgrade work
+how do I upgrade
+=Upgrade markers are played to improve existing units. When an upgrade is played, its power traces an LOC to an area containing one of its units of the appropriate type, then ﬂips that unit to its upgraded side (tank army, carrier ﬂeet, or strategic air force). Return the upgrade marker to the power’s force pool 
+
+!SuddenDeath
+what is Sudden Death
+how does Sudden Death work
+sudden death marker
+sudden death
+=After the third Crisis marker is drawn in a turn, ﬂip the Turn marker to its Sudden Death side. When a Crisis marker is drawn during Sudden Death, do not roll for an event—instead check to see if the action phase is over. Empty out the contents of the action cup. Each power compares the number of its own counters emptied from the cup to the number below based on its current commitment. If any power meets the criteria below, the action phase continues.
+
+!HomeFront
+what is Home Front
+how does Home Front work
+home front marker
+=When a Home Front marker is drawn, it must immediately conduct a home front stability test unless its commitment is currently civilian. Then, the power may perform a deployment action. When the Soviet Home Front marker is drawn, the Soviet Union may change its Posture if it has not done so yet this turn
+
+!Commitment
+what is Commitment
+how does Commitment work
+Commitment marker
+blue commit marker
+blue bicep marker
+=The ability of a power to produce material for war is governed by its commitment, a measure of the portion of its economy geared for war. A power’s commitment determines its political effectiveness, its force pool limits, and its military effciency, as indicated on its status card. Commitment can only be increased, shifting to the right 
+
+!Exhaustion
+what is Exhaustion
+how does Exhaustion work
+=When a power collapses (5.5.2) while at mobilization or total war, shift its commitment directly to exhaustion. Exhaustion is not a commitment increase for any purpose. It is a permanent condition and cannot be prevented or alleviated in any way   
+
+!ForcePool
+what is Force Pool
+how does Force Pool work
+what are force pools
+=A force pool includes all of its units and upgrade markers that are currently available or in play. The total number of these units and markers that are on the maps, in the action cup, and/or unconstructed on its status card is constrained by the power’s force pool limit; which is dependent on its commitment as indicated on the power’s status card. 
+
+
+!ProductionSequence
+what is Production Sequence
+how does Production Sequence work
+when is the production sequence
+Production Sequence
+=Collect resources, including by transfer  ,Convert resources   ,Construct units   ,Gain war offensives   , and Repair damaged resources   
+
+!LineOfCommunications
+what is Line of Communications
+how does Line of Communications work
+=A line of communications must be traced under the following circumstances.  To place a naval unit  , To play an upgrade marker , To collect a resource  , To gain commitment offensives  , To determine supply status during an operation, To intervene in a civil war 
+
+!TransferResources
+what is Transfer of Resources
+how does Transfer of Resources work
+how can I Transfer Resources
+who can Transfer Resources
+=When the United States transfers a resource, it is collected by the receiving power during its own production, by tracing a line of communications (4.3) from a United States home area to a production site of the recipient. Treat ports of both the United States and the receiving power as friendly for the purposes of tracing the LOC 
+
+!CollectingResources
+what is Collecting Resources
+how does Collecting Resources work
+who can Collect Resources
+=A power may collect a resource if it can trace an LOC to the area containing the resource. A production site’s own resource need not trace an LOC. For each resource collected , the power’s player moves one resource marker from its available markers box to its production holding box. If a power does not have enough resource markers, the excess resources are lost and unavailable for production this turn.
+
+!ConvertResources
+what is convert resources
+how does convert resources work
+when can I convert resources
+ratio for converting a resource
+=Each successfully collected resource may be converted into either a single offensive marker, or a variable number of builds depending on a power’s current commitment . For each resource marker in a power’s production holding box, the player either ﬂips it to the offensive side , or leaves it on the resource side  
+
+!Construction
+what is Construction
+how does Construction work
+=The power counts its resource markers and multiplies that number by its commitment conversion rate. The result is the number of builds available to be spent during production (round down). Return the resource markers to the power’s available markers box.   
+
+!WarOffensives
+what is War Offensives
+how do War Offensives work
+=Belligerent powers now gain one offensive marker from their available markers box for each industrial resource they collected this turn, even if it was a limited resource. These war offensives are placed in the power’s production holding box. A resource from a previous turn is never counted as an industrial resource for war offensives. 
+
+!GainingFlags
+how do I use flags
+what happens after I gain a flag
+=When a power gains a ﬂag, it takes a single ﬂag from the available markers box of its status card and must immediately put it in the action cup or in reserve or in its production holding box. If no ﬂags markers are available, any ﬂag it would gain is forfeit.
+
+!Provocation
+what is Provocation
+how does Provocation work
+what happens when I provoke a country
+Provocation
+=A power is provoked when an opposing power does any of the following.   Forms or joins an alliance, Declares war on it or its ally, Increases commitment, Intervenes  in an area where it has interests., Declares an operation against an area where it has interests, Performs a surprise attack against it , Gains control of an area where it has interests
+
+!Effectiveness
+what is a Effectiveness check
+how does Effectiveness checks work
+gray marker with effect
+=Effectiveness represents a power’s willingness and ability to form and apply a coherent political policy. Political actions undertaken by a power are resolved by an effectiveness check . Stability tests and some other game actions and events also require an effectiveness check. 
+
+!FailedPoliticalActions
+what are Failed Political Actions
+how do Failed Political Actions work
+=Every time a power fails the effectiveness check when attempting a political action, it may place a cube in the corresponding failed political action box . If the next political action by that power is the same type, apply a +1 bonus to the result of its effectiveness check for each of its cubes in the failed action box. 
+
+!Stability
+what is Stability
+how does Stability work
+=The stability of each power is marked on the stability track, ranging from steady to wavering to unstable, and fnally collapse. A power that collapses may surrender and be eliminated from the game.  
+
+!StabilityTests
+what is Stability Test
+how does a Stability Test work
+=A stability test is an effectiveness check (5.3). If it succeeds, there is no change. If the test fails, the power’s stability is reduced one level . If a power’s stability is reduced to collapse , it may also surrender      
+
+!Collapse
+what is a Collapse
+how does a Collapse work
+when does a country collapse
+what causes a collapse
+=The collapse of a government can represent a change ranging from the formation of a new cabinet, a coup day tah, or worse. If a power’s stability marker is moved to the collapse box, the power collapses and may surrender  
+
+!Collapse Procedure
+what is Collapse Procedure
+how does Collapse Procedure work
+how do I perform a Collapse Procedure
+what causes a Collapse Procedure
+=When a power collapses, do the following.  Each enemy power gains a ﬂag.   Any stability tests pending for the collapsed power are canceled.   Set the power’s stability to wavering.  Return the power’s reserve to its status card. Perform an effectiveness check for each area. containing the powers cubes.  The power’s allies must conduct a stability test. Then the power breaks its alliance.  The power must offer an armistice to all enemy powers. 
+ 
+!Surrender
+what is Surrender
+how does Surrender work
+when do I surrender
+when does my opponent
+what happens during a Surrender
+=See section 5.5.4 for full details. A power also immediately surrenders if at any time it controls none of its home areas. When a power surrenders, it is eliminated from the game and is no longer an active power   
+ 
+!StartingWars
+what is starting war
+how does starting war work
+how do I start a war
+what happens when war starts
+=A power becomes belligerent by performing or being the target of a declaration of war political action or surprise attack . Communist and Democratic powers can only initiate a war by the declaration of war political action; Fascist powers can start war by either a DOW or a surprise attack. When a power becomes belligerent, its allies must decide whether to uphold their alliances and join the war . Any allies that do not join the war immediately break the alliance   
+
+!EndingWars
+when does a war end
+how does Ending Wars work
+how do I end a war
+=Once started, a war can end in one of two ways. Armistice: A war can be ended at any time by the mutual consent of all involved powers. Capitulation: A war ends if the only remaining belligerent powers involved are from a single ideology. When a war ends, remove the corresponding power cubes from the political display.
+
+!WarStatus
+what is War Status
+how does War Status work
+how do I get the status of a war
+=The war status marker tracks the global extent and intensity of war. It does not apply to any individual power. When resolving a crisis event , if the war status marker is on the political display or turn track, resolve the Wartime event; if it is not, resolve the Peacetime event
+
+!LimitedWar
+what is limited war
+how does limited war work
+=The frst time any powers become belligerent (5.6.1), immediately place the war status marker on its Limited War side in the center of the political display. The war status marker is not removed from play if at any future time there are no belligerent powers. 
+
+!GlobalWar
+what is Global War
+how does Global War work
+=Flip the war status marker from its Limited War side to its Global War side immediately when:  any power increases its commitment to total war; or  at least one power from each ideology is currently belligerent (not necessarily in the same war). Once on its Global War side, the war status marker never reverts to its Limited War side
+
+!DiplomaticOpportunity
+what is Diplomatic Opportunity
+how does Diplomatic Opportunity work
+=A diplomatic opportunity occurs when control of a country comes up for grabs due to various circumstances. The powers eligible to gain control of the country depend on the circumstances, as follows:  When an attack by a power fails to conquer an uncontrolled country.  When a home area of a surrendered power becomes a country.   When a civil war faction with multiple patrons wins a decisive victory.  When a Communist Coup or Fascist Coup Crisis Event fails to gain control of an uncontrolled country.
+
+!JoiningAlliance
+how do I Join an Alliance
+how does Joining an Alliance work
+=There can only be one alliance per ideology. If two powers are allied, a third power in the ideology may only join the existing alliance. To do so, that third power only must play a ﬂag and pass an effectiveness check. Provocation due to a successful alliance occurs based on all three powers in the alliance, noting again that an opposing power cannot gain more than one ﬂag for the action
+
+!PoliticalAction
+what is a Political Action
+how does a Political Action work
+=A power attempts a political action when it plays a ﬂag or, occasionally, when called for by a crisis event. In general, a political action requires an effectiveness check to succeed. If the check fails, the power may qualify for a failed political action bonus on future actions 
+
+!BreakingAlliance
+what is Breaking an Alliance
+how does Breaking an Alliance work
+how do I Break an Alliance
+=A power breaks its alliance when. It collapses or surrenders. It accepts an armistice and an ally does not. It fails to join a war along with its allies. Powers that are no longer allies remove their cubes from their alliance circle on the political display
+
+!DeclarationOfWar
+what is Declaration of War 
+how does Declaration of War work
+how do I declare war
+=A power may play a ﬂag to attempt to declare war on one or more target powers. More than one power may be targeted only if they are allied with each other. A declaration of war is not required to attack an ungarrisoned country . To declare war, a power must have a commitment of mobilization or total war. The United States and its allies may not declare war against Japan if the US-Japan Trade marker is in play
+
+!Diplomacy
+what is Diplomacy
+how does Diplomacy work
+=A power may play a ﬂag to attempt to gain control of an ungarrisoned country by diplomacy. The power designates a single ungarrisoned country in their interests as the target. The target may be controlled by another power , or be a home or colony area with a neutral cube, but cannot be in an active civil war
+
+!IncreaseCommitment
+what is Increase Commitment
+how do I Increase Commitment
+=A power may play a ﬂag to attempt to increase its commitment. If the power is belligerent the effectiveness check is automatically successful.  If successful, move the power’s Commitment marker one column to the right on its status card. A power may never voluntarily increase commitment to exhaustion. A power cannot successfully increase its commitment more than once per turn; ﬂip the commitment markerwhen it is increased as a reminder
+
+!Maneuvers
+what is Maneuvers
+how do Maneuvers work
+operation with green arrow
+operation green arrow
+=A power may play a ﬂag to attempt to perform one military action (8.0). If the effectiveness check is successful, the power designates and performs a single military action.   
+
+!Propaganda
+what is Propaganda
+how does Propaganda work
+yellow scale marker
+=A power may play a ﬂag to attempt to increase its stability (5.5). If the effectiveness check is successful, increase the power’s stability one level (but never beyond steady)   
+
+!OccupationLimits
+what are Occupation Limits
+how do Occupation Limits work
+=Occupation limits apply separately for each ideology. This limit may only be exceeded when playing a unit at a production site, or during movement, whether during a deployment action or operation. If the occupation limit is exceeded at any other time, the violating power must destroy excess units and return them to its force pool
+
+!LogisticsUnits
+what are Logistics Units
+how do Logistics Units work
+=A logistics unit represents a concentration of facilities and material strength. It negates the effects of restricted terrain in its area. Logistics units are limited to one per area. In a sea area with an air base it increases the occupation limit to two air units. In a sea area with a naval base, it increases the occupation limit to two naval units
+
+!Movement
+what is Movement
+how does Movement work
+what are rules for movement
+=Different types of units use different types of movement depending on the circumstances.  Land units may always use land movement. Fortress units may only move when played from the action cup or reserve. Naval units always use naval movement. Air units may always use air movement. Logistics units may only move when played from the action cup or reserve.
+
+!LandMovement
+what is Land Movement
+how does Land Movement work
+=Land movement is allowed from a land or mixed area to an adjacent land or mixed area. Land movement is allowed across black crossing arrows  and white map cconnectors , including half-white connectors
+
+!NavalMovement
+what is Naval Movement
+how does Naval Movement work
+=Naval movement is allowed from a sea area to an adjacent sea or coastal area, or from a coastal area to an adjacent sea area. Naval movement is also allowed between a mixed area and an adjacent coastal area, but only if they are connected by a black crossing arrow 
+
+!AirMovement
+what is Air Movement
+how does Air Movement work
+=Air movement is from area to adjacent area, regardless of area type. Air movement may enter any sea areas, friendly land or mixed areas, or enemy land or mixed areas. Air movement is allowed across black or blue crossing arrows  and white map connectors, including half-white connectors.
+
+!NavalRange
+what is Naval Range
+how does Naval Range work
+how many spaces can my naval units move
+=7.3.1 Naval Range The range of a unit using naval movement is two sea or mixed areas from a friendly port.
+
+!AirRange
+what is Air Range
+how does Air Range work
+=The range of a tactical air force is one area from a friendly airfeld. The range of a strategic air force is two areas from a friendly airfeld.
+
+!ExtendedRange
+what is Extended Range
+how does Extended Range work
+=At the start of an operation, the range of activated air and/or naval units may be extended one area by declaring extended range and accepting a –1 penalty to combat scores involving extended range units during the operation. Extended range would also apply to retreat or regroup by designated units
+
+!MilitaryActions
+what are Military Actions
+how do Military Actions work
+=A military action allows a power to move and attack with their forces on the board, among other related activities. A power performs one or more military actions when it plays an offensive. A power performs a single military action when it succeeds with a maneuvers or declaration of war political action. A power performs a deployment military action when its Home Front marker is drawn, or when playing a unit
+
+!Builds
+what are Builds
+how do Builds work
+=A belligerent power (1.1) may spend one or more military actions to generate an equal number of builds (8.3). The power must use the builds immediately and can construct any eligible unit in its force pool.
+
+!Deployment
+what is Deployment
+how does Deployment work
+how do I deploy my units
+=A deployment action allows a power to move some or all of its units an unlimited number of times. Allied units may not be moved by deployment. Deploying units move one at a time, area by area. A power may move one unit, move another unit, and then go back and move the frst unit again. There is no limit to how far a deploying unit may move
+
+!SubsequentActivation
+what is Subsequent Activation
+how does Subsequent Activation work
+=Units that deploy may not be activated for an operation later in the same offensive. However, units that activate for an operation may later deploy in the same offensive
+
+!OperationTypes
+what are Operation Types
+how do Operation Types work
+what are the types of operations
+=Land operations attack a land or mixed area, either adjacent, or across one or two sea or mixed areas. Naval operations  attack an area containing naval units and/or a base .  Air operations attack an area containing air units and/or a resource.
+
+!OperationSequence
+what is Operation Sequence
+how does Operation Sequence work
+=The attacker declares operation type, units, target area. The attacker declares any augmentation for the operation. Each power provoked by the attack gains a ﬂag. Attacking and defending units must trace an LOC for supply. Attacking units move to the target area. Resolve combat.
+
+!LandOperationProcedure
+what is Land Operation Procedure
+how does Land Operation Procedure work
+=A power performs a land operation by spending a military action to activate one or more friendly armies to attack an adjacent enemy land or mixed area or uncontrolled country. The activated armies move to the target area and initiate land combat (10.4). Air units may support.  
+
+!NavalOperationProcedure
+what is Naval Operation Procedure
+how does Naval Operation Procedure work
+=A power performs a naval operation by spending a military action to activate one or more friendly ﬂeets and/or strategic air forces to attack an area. The activated units must occupy a friendly port or airfeld
+
+!AirOperationProcedure
+what is Air Operation Procedure
+how does Air Operation Procedure work
+=A power performs an air operation by spending a military action to activate one or more air units to attack an area. The activating power designates the target area, which must contain at least one enemy air unit. The area must be within range of all activated units.
+
+!StrategicBombing
+what is Strategic Bombing
+how does  Strategic Bombing work
+=A strategic bombing air operation may be declared against an enemy area containing a resource; the area need not contain an enemy air unit. At least one strategic air force must be among the activated units. Resolve the strategic bombing operation as an air combat. If there are no defending air units, the defender still rolls one die for intrinsic air defense, but cannot declare a retreat.
+
+!Supply
+what is Supply
+how does Supply work
+=Before units move as part of an operation,each area containing activated or defending units must trace a line of communications, LOC, for supply. If an LOC cannot be traced, place a Limited Supply marker on the affected units for the duration of the operation. Units with a Limited Supply marker apply a –1 penalty to their combat score
+
+!AttackingACountry
+how do I Attack a Country
+how do country attacks work
+=A power may attack a garrisoned country only if it is controlled by an enemy power. A Fascist or Communist power may attack an ungarrisoned country whether it is controlled or not. No declaration of war or surprise attack occurs—the Fascist or Communist power simply declares an operation against the country.
+
+!CivilWars
+what is Civil War
+how does Civil War work
+=A Civil War marker has no effect on whether a country can be attacked. Remove the Civil War marker and any aid if a power takes control of the country. When a country with a Civil War marker is attacked, one aid marker from each faction is spent and returned to its available markers box. If any aid is spent, the country rolls an additional die for defense (not one per aid).
+
+!FailedAttacks
+what is Failed Attack
+how do Failed Attacks work
+=If a power attacks an uncontrolled country but fails to take control of it by the end of the operation, immediately resolve a diplomatic opportunity (5.7) for the country
+
+!SurpriseAttack
+what is Surprise Attack
+how does Surprise Attack work
+=A surprise attack is an operation that creates a state of war. It requires neither a political action nor an effectiveness check. Only Fascist powers can perform a surprise attack. To perform a surprise attack, a Fascist power with a commitment of mobilization or total war spends a military action to attack a non-enemy opposing power
+
+!CombatSequence
+what is Combat Sequence
+how does Combat Sequence work
+=All combat is resolved according to the following sequence: Commit all supporting units, attacker first. Resolve air combat, if any. If the main combat is a land or naval combat, determine air superiority. Resolve land or naval combat, if any. Resolve the aftermath; remaining units retreat or regroup
+
+!AirSuperiority
+what is Air Superiority
+how does Air Superiority work
+=Air superiority is determined during the resolution of a land or naval combat. An air combat is resolved and whichever side has more air units remaining has air superiority. If only one side has air units present, they automatically have air superiority. If both sides have the same number of supporting air units, neither side gets air superiority.
+
+!LandCombat
+what is Land Combat
+how does Land Combat work
+=Section 10.4. Land combat occurs as a result of a land operation (9.3). Only land units suffer losses in land combat
+
+!NavalCombat
+what is Naval Combat
+how does Naval Combat work
+=Section 10.5. Naval combat may occur as a result of a naval operation (9.4). Only naval units suffer losses in naval combat
+
+!AirCombat
+what is Air Combat
+how does Air Combat work
+=Resolve air combat as follows: Each side rolls two dice. During strategic bombing, a defender with no air units rolls one die. Calculate bonuses and/or penalties to each side’s combat score. Both sides roll and determine the results of the combat (10.7).
+
+!CombatResult
+how do I resolve combat
+what is combat result
+how do I determine combat results
+=The side with the higher combat score wins the combat, and the loser incurs losses and/or retreats. If the fnal scores are tied, neither side wins; both sides take one loss and cannot retreat. The side that loses the combat must take a number of losses equal to the winner’s score divided by the loser’s score
+
+!Losses
+what are Losses
+how do Losses work
+how do I determine losses
+=For each loss suffered by a side in combat, an upgraded unit is ﬂipped to its non-upgraded side or a non-upgraded unit is destroyed and returned to its owner’s force pool. The same unit can take multiple losses in a single combat, i.e., an upgraded unit can be ﬂipped, and then destroyed, to satisfy two losses
+
+!Retreat
+what is Retreat
+how does Retreat work
+=The losing side of a combat may choose to reduce its losses by one by declaring a voluntary retreat; this may reduce losses to zero (10.8). A retreat may not be declared if the combat result is a tie, or if the remaining losses would still be enough to eliminate all units eligible for losses.
+
+!Regroup
+what is Regroup
+how does Regroup work
+how do I regroup
+=Regroup allows units to reposition after combat. even units that were not involved. All eligible units belonging to powers on the regrouping side may regroup: land units after land combat, naval units after naval combat, and air units after any combat. Regrouping does not cost actions, nor does it activate the units involved. All rules of movement apply. At the end of regroup, occupation limits must be obeyed in all affected areas.
+
+!CivilWarCrisis
+what is Civil War Crisis
+how does Civil War Crisis work
+=When a Civil War or Colonial Revolt crisis event occurs, the player who drew the crisis marker rolls two dice and consults the table in the event listing. The result designates an area where a civil war has broken out
+
+!CivilWarResolution
+what is Civil War Resolution
+how does Civil War Resolution work
+how do I resolve a civil war
+=When the Civil War Resolution marker is drawn from the action cup, resolve one round of civil war combat immediately in all areas marked with a Civil War marker. The player who drew the marker determines the order of resolution. After resolving all combats, place the Resolution marker on the turn track to enter the action cup at the start of the next turn
+
+!ChineseCivilWar
+what is Chinese Civil War
+how does Chinese Civil War work
+=China begins the game in a state of civil war. Each area in China is an individual country. Resolve the Chinese civil war along with any others whenever the Civil War Resolution chit is drawn from the action cup.
